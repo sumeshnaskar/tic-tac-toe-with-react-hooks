@@ -4,8 +4,8 @@ export const Container = styled.section`
     background: #A6A5F8;
     margin: 0 auto;
     text-align: center;
-    margin-bottom: 1em;
-    padding: 1em;
+    margin-bottom: 0.5em;
+    padding: 0.5em;
     border-bottom: 2px dashed #FD0000;
     width: 250px;
     
